@@ -1,10 +1,12 @@
 account.didachuxing.com
+agent.uduncloud.com
 api.didapinche.com
 apis.didapinche.com
 b.didachuxing.com
 bapi-ips.didapinche.com
 bapi-slb.didapinche.com
 bapi.didapinche.com
+bipay-download.uduncloud.com
 bj-m6v-opp-online.didapinche.com
 cache.didapinche.com
 cache1.didapinche.com
@@ -42,6 +44,7 @@ smtp.didapinche.com
 soft.didapinche.com
 static.didapinche.com
 test.didachuxing.com
+uduncloud.com
 uni.didapinche.com
 venus-static.didachuxing.com
 venus.didachuxing.com
@@ -50,3 +53,4 @@ www.didachuxing.com
 www.didapinche.com
 www.huoxian.cn
 www.static.didapinche.com
+www.uduncloud.com

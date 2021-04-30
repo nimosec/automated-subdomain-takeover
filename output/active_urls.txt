@@ -1,7 +1,9 @@
 http://bapi.didapinche.com
 https://account.didachuxing.com
+https://agent.uduncloud.com
 https://apis.didapinche.com
 https://b.didachuxing.com
+https://bipay-download.uduncloud.com
 https://cache1.didapinche.com
 https://capis-clb.didapinche.com
 https://capis-m6v.didapinche.com
@@ -32,3 +34,4 @@ https://venus.didachuxing.com
 https://www.didachuxing.com
 https://www.didapinche.com
 https://www.huoxian.cn
+https://www.uduncloud.com
