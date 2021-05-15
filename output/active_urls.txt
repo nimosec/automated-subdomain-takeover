@@ -1,7 +1,9 @@
 
+http://temp.lvsongguo.com
 https://99cases.oceanengine.com
 https://ad.oceanengine.com
 https://agent.oceanengine.com
+https://api.daliapp.cn
 https://apps.oceanengine.com
 https://arthur.oceanengine.com
 https://athena-api.oceanengine.com
@@ -20,6 +22,10 @@ https://feiyu.oceanengine.com
 https://global-sso.oceanengine.com
 https://h5.oceanengine.com
 https://im.oceanengine.com
+https://img.lvsongguo.com
+https://m.lvsongguo.com
+https://m.xiaohe-jiankang.com
+https://m.zhuxiaobang.com
 https://market.oceanengine.com
 https://marsol.oceanengine.com
 https://oceanengine.com
@@ -33,5 +39,11 @@ https://sas.oceanengine.com
 https://school.oceanengine.com
 https://sso.oceanengine.com
 https://trendinsight.oceanengine.com
+https://wss.lvsongguo.com
+https://www.lvsongguo.com
 https://www.oceanengine.com
+https://www.xiangyujiankang.com
+https://www.zhuxiaobang.com
+https://xiangyujiankang.com
 https://yuntu.oceanengine.com
+https://zhuxiaobang.com
