@@ -2539,11 +2539,15 @@ info.bytedance.com
 infosys.bytedance.com
 jira.bytedance.com
 job.bytedance.com
+job.kundou.cn
 jobs.bytedance.com
 kds-mva.bytedance.com
 kds-sg.bytedance.com
 kds.bytedance.com
 kefu.bytedance.com
+kundou.cn
+kunlun-pre.kundou.cn
+kunlun.kundou.cn
 l.bytedance.com
 lab-vc-public.bytedance.com
 lark-plugin.bytedance.com
@@ -2594,6 +2598,8 @@ o7.ptr7153.bytedance.com
 o7oo35.bytedance.com
 oa.bytedance.com
 oemu.bytedance.com
+okr-staging.kundou.cn
+okr.kundou.cn
 open-miniprogram.bytedance.com
 p-cdn.bytedance.com
 pacific.bytedance.com
@@ -2609,10 +2615,13 @@ pigeon.bytedance.com
 pitaya.bytedance.com
 poi.bytedance.com
 polyfill.bytedance.com
+portal-tiktok.kundou.cn
 procurement-portal.bytedance.com
 programcamp.bytedance.com
 publish.bytedance.com
 qn-activity.bytedance.com
+qr.kundou.cn
+recruitment.kundou.cn
 redrain-aggdsz.bytedance.com
 redrain-agjsnj.bytedance.com
 redrain-agsdqd.bytedance.com
@@ -2647,6 +2656,7 @@ sg-feedback.bytedance.com
 sgaup.bytedance.com
 sgpoi.bytedance.com
 shield.bytedance.com
+shvdiomivv.virtual.bytedance.com
 smtp.bytedance.com
 speech-alisg.bytedance.com
 speech-lf.bytedance.com
@@ -2694,6 +2704,7 @@ ug.bytedance.com
 umbrella.bytedance.com
 union.bytedance.com
 url8933.bytedance.com
+user.kundou.cn
 utils.larkcloud.bytedance.com
 v-tcscache-lf.bytedance.com
 v2.h5player.bytedance.com

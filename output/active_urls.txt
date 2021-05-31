@@ -120,11 +120,13 @@ https://im.bytedance.com
 https://index.bytedance.com
 https://infosys.bytedance.com
 https://job.bytedance.com
+https://job.kundou.cn
 https://jobs.bytedance.com
 https://kds-mva.bytedance.com
 https://kds-sg.bytedance.com
 https://kds.bytedance.com
 https://kefu.bytedance.com
+https://kundou.cn
 https://larkcloud.bytedance.com
 https://lego-interaction.bytedance.com
 https://live.bytedance.com
@@ -152,6 +154,7 @@ https://ngcc.bytedance.com
 https://notify-open.bytedance.com
 https://oa.bytedance.com
 https://oemu.bytedance.com
+https://okr.kundou.cn
 https://open-miniprogram.bytedance.com
 https://p-cdn.bytedance.com
 https://pacific.bytedance.com
@@ -168,6 +171,8 @@ https://poi.bytedance.com
 https://polyfill.bytedance.com
 https://procurement-portal.bytedance.com
 https://qn-activity.bytedance.com
+https://qr.kundou.cn
+https://recruitment.kundou.cn
 https://redrain-aggdsz.bytedance.com
 https://redrain-agjsnj.bytedance.com
 https://redrain-agsdqd.bytedance.com
@@ -217,6 +222,7 @@ https://ug.bytedance.com
 https://umbrella.bytedance.com
 https://union.bytedance.com
 https://url8933.bytedance.com
+https://user.kundou.cn
 https://v-tcscache-lf.bytedance.com
 https://v2.h5player.bytedance.com
 https://va-feedback.bytedance.com
