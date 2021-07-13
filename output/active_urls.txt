@@ -105,6 +105,7 @@ http://web-api-host3.acronis.com
 http://webim.bytedance.com
 https://15.acronis.com
 https://aa.acronis.com
+https://ablink.community.pixabay.com
 https://abtestvm-sg.bytedance.com
 https://abtestvm-va.bytedance.com
 https://abtestvm.bytedance.com
@@ -220,6 +221,7 @@ https://cas.acronis.com
 https://casestudies.acronis.com
 https://cdn.acronis.com
 https://cdn.bytedance.com
+https://cdn.pixabay.com
 https://cftp.acronis.com
 https://cg-upay.bytedance.com
 https://cgcms.bytedance.com
@@ -335,6 +337,7 @@ https://gameflow.bytedance.com
 https://gateway.acronis.com
 https://gms-api.bytedance.com
 https://go.acronis.com
+https://goodies.pixabay.com
 https://h5player.bytedance.com
 https://hapi.bytedance.com
 https://healthchina.bytedance.com
@@ -431,6 +434,7 @@ https://pick.bytedance.com
 https://pickad.bytedance.com
 https://pigeon.bytedance.com
 https://pitaya.bytedance.com
+https://pixabay.com
 https://pl.acronis.com
 https://pl01-cloud.acronis.com
 https://poi.bytedance.com
@@ -480,6 +484,7 @@ https://ru.metro.acronis.com
 https://s3-eu6.acronis.com
 https://s3-fra2-acs1.acronis.com
 https://s3-nissan-jp2.acronis.com
+https://safesearch.pixabay.com
 https://sas.bytedance.com
 https://screen-lock-admin.bytedance.com
 https://seal.bytedance.com
@@ -561,6 +566,7 @@ https://wrh-msptest2.acronis.com
 https://www.acronis.com
 https://www.bytedance.com
 https://www.npy.cn
+https://www.pixabay.com
 https://yvr1-repo.acronis.com
 https://zc.bytedance.com
 https://zd.feishu.bytedance.com

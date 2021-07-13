@@ -27,6 +27,7 @@ abgw-sin2-acs1.acronis.com
 abgw-us3-acs2.acronis.com
 abgw-us6-acs1.acronis.com
 abgw-us6-acs2.acronis.com
+ablink.community.pixabay.com
 abtestvm-sg.bytedance.com
 abtestvm-va.bytedance.com
 abtestvm.bytedance.com
@@ -50,6 +51,7 @@ admin-x.bytedance.com
 admin.acronis.com
 admin.bytedance.com
 admin.corp.acronis.com
+admin.pixabay.com
 admin2.acronis.com
 affiliate.acronis.com
 agents-at01-cloud.acronis.com
@@ -2635,6 +2637,7 @@ cb-eu2.acronis.com
 cdn-wavemesh.bytedance.com
 cdn.acronis.com
 cdn.bytedance.com
+cdn.pixabay.com
 central.acronis.com
 certification.acronis.com
 ces-dev.acronis.com
@@ -2730,6 +2733,7 @@ cloudprint.bytedance.com
 clue-global.bytedance.com
 cognition-va.bytedance.com
 cognition.bytedance.com
+community.pixabay.com
 console.bytedance.com
 consumer.acronis.com
 contest.bytedance.com
@@ -2748,6 +2752,7 @@ creation.bytedance.com
 crl.corp.acronis.com
 crm.bytedance.com
 crs.corp.acronis.com
+crt.pixabay.com
 cscm.bytedance.com
 csp-demo.acronis.com
 cuotiben.bytedance.com
@@ -2761,6 +2766,10 @@ data-component.bytedance.com
 data.bytedance.com
 datageddon.acronis.com
 dawn.bytedance.com
+db.pixabay.com
+db1.pixabay.com
+db2.pixabay.com
+dbase.pixabay.com
 dc-stat.acronis.com
 dc.adc.corp.acronis.com
 dco-zabbix.acronis.com
@@ -2780,6 +2789,7 @@ de-oos-1.corp.acronis.com
 de-oos-2.corp.acronis.com
 de-vpn.acronis.com
 de.metro.acronis.com
+de.pixabay.com
 dev-cloud.acronis.com
 dev-cms-03.acronis.com
 dev-www.npy.cn
@@ -2885,6 +2895,7 @@ git.bytedance.com
 gms-api.bytedance.com
 go.acronis.com
 gongyi.bytedance.com
+goodies.pixabay.com
 goofy-web.bytedance.com
 gr01-cloud.acronis.com
 gru1-repo.acronis.com
@@ -2928,6 +2939,7 @@ in01-cloud.acronis.com
 index.bytedance.com
 info.acronis.com
 info.bytedance.com
+info.pixabay.com
 infosys.bytedance.com
 io.acronis.com
 ipn.acronis.com
@@ -3016,10 +3028,12 @@ mail.partners.acronis.com
 mail.ru.corp.acronis.com
 mail.sglab.acronis.com
 mail.us.corp.acronis.com
+mail_test.pixabay.com
 mailings.acronis.com
 maillark.bytedance.com
 map.bytedance.com
 mapproxy.bytedance.com
+mbk01.pixabay.com
 mc-beta-baas.acronis.com
 mc-beta-cloud.acronis.com
 mc-bt01-cloud.acronis.com
@@ -3028,6 +3042,7 @@ mc-hpl-baas.acronis.com
 mc-kaseya-cloud.acronis.com
 mc-msptest2.acronis.com
 mc-summit02-cloud.acronis.com
+mc.pixabay.com
 mcp.bytedance.com
 mdfcore.channelincentives.acronis.com
 mdm.bytedance.com
@@ -3048,16 +3063,31 @@ miniappservice.bytedance.com
 misentry.acronis.com
 mm.acronis.com
 mmp.bytedance.com
+mn01.pixabay.com
+mn02.pixabay.com
+mn03.pixabay.com
+mn04.pixabay.com
+mn05.pixabay.com
+mn06.pixabay.com
+mn07.pixabay.com
+mn1.pixabay.com
+mn2.pixabay.com
+mnbk.pixabay.com
 mobile-backup-server-beta.acronis.com
 mobileapi-enterprise.acronis.com
 mobileapi.acronis.com
 monitoring.acronis.com
 motorsport.acronis.com
+mpx01.pixabay.com
+mpx02.pixabay.com
 msg.acronis.com
 msoid.bytedance.com
 msptest2.acronis.com
+msv01.pixabay.com
 mttransfer.acronis.com
 mtweb.acronis.com
+munin01.pixabay.com
+munin02.pixabay.com
 mx.acronis.com
 my.acronis.com
 nashservice.bytedance.com
@@ -3078,6 +3108,7 @@ ns2.acronis.com
 ns3.acronis.com
 ns4.acronis.com
 nz01-cloud.acronis.com
+o2736.e.community.pixabay.com
 o6.ptr690.bytedance.com
 o7.ptr7153.bytedance.com
 o7oo35.bytedance.com
@@ -3117,6 +3148,7 @@ pick.bytedance.com
 pickad.bytedance.com
 pigeon.bytedance.com
 pitaya.bytedance.com
+pixabay.com
 pl.acronis.com
 pl01-cloud.acronis.com
 pmc.acronis.com
@@ -3138,6 +3170,8 @@ qlik.corp.acronis.com
 qn-activity.bytedance.com
 qr.kundou.cn
 rabbitmq.corp.acronis.com
+rc1.pixabay.com
+rc2.pixabay.com
 recruitment.kundou.cn
 redapi.acronis.com
 redapi2.acronis.com
@@ -3239,6 +3273,7 @@ s3-fra2-acs8.acronis.com
 s3-nissan-jp2.acronis.com
 s3-phx1-acs3.acronis.com
 s3-staging-us2.acronis.com
+safesearch.pixabay.com
 sas.bytedance.com
 sbc.acronis.com
 screen-lock-admin.bytedance.com
@@ -3300,6 +3335,7 @@ staging.partners.acronis.com
 starling-public.bytedance.com
 stat.acronis.com
 static.bytedance.com
+static.pixabay.com
 staticfiles.acronis.com
 storage-repo.acronis.com
 storage-reports.acronis.com
@@ -3549,6 +3585,7 @@ www.osa.corp.acronis.com
 www.partners.acronis.com
 www.paystub.bytedance.com
 www.pbi.acronis.com
+www.pixabay.com
 www.pl01-cloud.acronis.com
 www.prf.corp.acronis.com
 www.promo.acronis.com
