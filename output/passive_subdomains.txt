@@ -5,6 +5,7 @@ amaze.fbcontent.cn
 amaze.yuanfudao.com
 ape-api.yuanfudao.com
 ape-online.fbcontent.cn
+api.checkmath.net
 athena.yuansouti.com
 aws002.zhenguanyu.com
 banana.yuansouti.com
@@ -155,6 +156,7 @@ t.yuanfudao.com
 techblog.yuantiku.com
 test-m.fbcontent.cn
 test-m.yuanfudao.com
+top100school.com
 tplive.yuanfudao.com
 tutor-live-biz-online.fbcontent.cn
 tutor-live-biz1-online.fbcontent.cn
@@ -181,6 +183,7 @@ www.account.zhenguanyu.com
 www.banmaaike.com
 www.banmasiwei.com
 www.nanguakexue.com
+www.top100school.com
 www.xiaoyuankousuan.com
 www.ybc1024.com
 www.ybccode.com

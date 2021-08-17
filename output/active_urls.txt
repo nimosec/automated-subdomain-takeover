@@ -21,6 +21,7 @@ https://amaze.fbcontent.cn
 https://amaze.yuanfudao.com
 https://ape-api.yuanfudao.com
 https://ape-online.fbcontent.cn
+https://api.checkmath.net
 https://athena.yuansouti.com
 https://banana.yuansouti.com
 https://banmaaike.com
@@ -122,6 +123,7 @@ https://static-nginx-test.fbcontent.cn
 https://steam.fbcontent.cn
 https://t.fbcontent.cn
 https://test-m.yuanfudao.com
+https://top100school.com
 https://tutor-live-biz1-online.fbcontent.cn
 https://tutor-online.fbcontent.cn
 https://tutor-online1.fbcontent.cn
